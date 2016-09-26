@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:core="http://v8.1c.ru/data" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<v8:CatalogObject.Контрагенты>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Контрагенты">5a878733-6fd6-11e0-89a5-00249135cb6b</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>000000004</v8:Code>
+			<v8:Description>Поставщики</v8:Description>
+		</v8:CatalogObject.Контрагенты>
+		<v8:CatalogObject.Контрагенты>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Контрагенты">5a878734-6fd6-11e0-89a5-00249135cb6b</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>000000005</v8:Code>
+			<v8:Description>Покупатели</v8:Description>
+		</v8:CatalogObject.Контрагенты>
+		<v8:CatalogObject.Контрагенты>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Контрагенты">e947c2c7-c6b8-11de-9882-002243a37892</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Контрагенты">5a878733-6fd6-11e0-89a5-00249135cb6b</v8:Parent>
+			<v8:Code>000000001</v8:Code>
+			<v8:Description>ООО "Зеленый свет"</v8:Description>
+			<v8:НаименованиеПолное>Все что  пожелаете и захотите</v8:НаименованиеПолное>
+		</v8:CatalogObject.Контрагенты>
+		<v8:CatalogObject.Контрагенты>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Контрагенты">e947c2c8-c6b8-11de-9882-002243a37892</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Контрагенты">5a878733-6fd6-11e0-89a5-00249135cb6b</v8:Parent>
+			<v8:Code>000000002</v8:Code>
+			<v8:Description>ЗАО "Ни за что"</v8:Description>
+			<v8:НаименованиеПолное>Ни когда и ни за что</v8:НаименованиеПолное>
+		</v8:CatalogObject.Контрагенты>
+		<v8:CatalogObject.Контрагенты>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Контрагенты">e947c2c9-c6b8-11de-9882-002243a37892</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Контрагенты">5a878734-6fd6-11e0-89a5-00249135cb6b</v8:Parent>
+			<v8:Code>000000003</v8:Code>
+			<v8:Description>ООО "Шанс"</v8:Description>
+			<v8:НаименованиеПолное>Все возможно</v8:НаименованиеПолное>
+		</v8:CatalogObject.Контрагенты>
+		<v8:CatalogObject.Контрагенты>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Контрагенты">933395d8-7f26-11e6-ae76-7ce9d3fc8b20</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Контрагенты">5a878734-6fd6-11e0-89a5-00249135cb6b</v8:Parent>
+			<v8:Code>000000006</v8:Code>
+			<v8:Description>ООО "Последний шанс"</v8:Description>
+			<v8:НаименованиеПолное>Последний шанс разбогатеть</v8:НаименованиеПолное>
+		</v8:CatalogObject.Контрагенты>
+	</V8Exch:Data>
+	<PredefinedData/>
+</V8Exch:_1CV8DtUD>

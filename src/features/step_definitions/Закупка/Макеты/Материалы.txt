@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:core="http://v8.1c.ru/data" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">c18af219-c6b0-11de-9882-002243a37892</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>000000020</v8:Code>
+			<v8:Description>Материалы</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.ЕдиницыИзмерения>
+			<v8:Ref xsi:type="v8:CatalogRef.ЕдиницыИзмерения">a9eb6037-c6ab-11de-9882-002243a37892</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>000000004</v8:Code>
+			<v8:Description>Набор</v8:Description>
+		</v8:CatalogObject.ЕдиницыИзмерения>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">c18af21a-c6b0-11de-9882-002243a37892</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c18af219-c6b0-11de-9882-002243a37892</v8:Parent>
+			<v8:Code>000000021</v8:Code>
+			<v8:Description>Красивая загогулина</v8:Description>
+			<v8:ЦенаПокупки>3</v8:ЦенаПокупки>
+			<v8:ЦенаПродажи>5</v8:ЦенаПродажи>
+			<v8:ВидНоменклатуры>Материал</v8:ВидНоменклатуры>
+			<v8:ОснЕдиницаИзмерения xsi:type="v8:CatalogRef.ЕдиницыИзмерения">a9eb6037-c6ab-11de-9882-002243a37892</v8:ОснЕдиницаИзмерения>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.ЕдиницыИзмерения>
+			<v8:Ref xsi:type="v8:CatalogRef.ЕдиницыИзмерения">a9eb6039-c6ab-11de-9882-002243a37892</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>000000003</v8:Code>
+			<v8:Description>Пара</v8:Description>
+		</v8:CatalogObject.ЕдиницыИзмерения>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">c18af21b-c6b0-11de-9882-002243a37892</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c18af219-c6b0-11de-9882-002243a37892</v8:Parent>
+			<v8:Code>000000022</v8:Code>
+			<v8:Description>Страшная загогулина</v8:Description>
+			<v8:ЦенаПокупки>3</v8:ЦенаПокупки>
+			<v8:ЦенаПродажи>5</v8:ЦенаПродажи>
+			<v8:ВидНоменклатуры>Материал</v8:ВидНоменклатуры>
+			<v8:ОснЕдиницаИзмерения xsi:type="v8:CatalogRef.ЕдиницыИзмерения">a9eb6039-c6ab-11de-9882-002243a37892</v8:ОснЕдиницаИзмерения>
+		</v8:CatalogObject.Номенклатура>
+	</V8Exch:Data>
+	<PredefinedData/>
+</V8Exch:_1CV8DtUD>
